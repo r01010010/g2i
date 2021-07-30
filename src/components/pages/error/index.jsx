@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Panel, H1, H2, Div } from '../../../styleds'
+import { Panel, H1, H2, Div } from '../../../uikit'
 
 export default () => <Panel>
   <Div>

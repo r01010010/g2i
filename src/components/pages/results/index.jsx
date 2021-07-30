@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { FaCheck, FaRegTimesCircle } from 'react-icons/fa'
 import { inject, observer } from 'mobx-react'
 
-import { Panel, Title, Button } from '../../../styleds'
+import { Panel, Title, Button } from '../../../uikit'
 import { useGoToHome } from '../../../routes'
 
 

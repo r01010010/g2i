@@ -1,7 +1,7 @@
 import React from 'react'
 import { useGoToQuestionaire } from '../../../routes'
 
-import { Panel, Title, H2, Button, Div } from '../../../styleds'
+import { Panel, Title, H2, Button, Div } from '../../../uikit'
 
 export default () => {
   const goToQuestionaire = useGoToQuestionaire();
